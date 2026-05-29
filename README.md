@@ -35,7 +35,6 @@ GitHub: https://github.com/heypurva02
 ## Current Goals
 
 * Contribute to Open Source
-* Participate in GSSoC 2026
 * Improve DSA skills
 * Build strong development projects
 
